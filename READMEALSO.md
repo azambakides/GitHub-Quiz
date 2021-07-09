@@ -1,0 +1,1 @@
+I thought it would be a good idea to add another README. As that is what I have been learning to do.
